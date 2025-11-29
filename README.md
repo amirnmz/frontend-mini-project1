@@ -113,6 +113,3 @@ Create a `.env.local` file:
 JWT_SECRET=your-secret-key-here
 \`\`\`
 
-## License
-
-MIT
